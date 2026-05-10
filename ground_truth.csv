@@ -1,0 +1,21 @@
+filename,locality,ground_truth,condition
+01_koramangala_quiet.wav,Koramangala,haan bhai main koramangala mein rehta hoon,quiet
+02_indiranagar_quiet.wav,Indiranagar,mera ghar indiranagar ke paas hai,quiet
+03_whitefield_quiet.wav,Whitefield,main whitefield se hoon wahan se daily travel karta hoon,quiet
+04_electroniccity_quiet.wav,Electronic City,electronic city mein ek company mein kaam karta tha pehle,quiet
+05_marathahalli_quiet.wav,Marathahalli,marathahalli area mein room liya hai maine,quiet
+06_jayanagar_noise.wav,Jayanagar,jayanagar mein rehta hoon kafi accha area hai,noise
+07_rajajinagar_noise.wav,Rajajinagar,rajajinagar se hoon main bahut door nahi hai,noise
+08_hebbal_noise.wav,Hebbal,hebbal ke paas ek factory mein kaam karta hoon,noise
+09_yelahanka_noise.wav,Yelahanka,yelahanka mein mera bhai rehta hai main bhi wahi hoon,noise
+10_banashankari_noise.wav,Banashankari,banashankari area mein room dhundh raha hoon abhi,noise
+11_hsrlayout_rushed.wav,HSR Layout,hsr layout mein hoon main haan haan wahi rehta hoon,rushed
+12_btmlayout_rushed.wav,BTM Layout,btm layout se hoon kya job hai wahan,rushed
+13_majestic_rushed.wav,Majestic,majestic ke paas hi hoon bus stand ke peeche,rushed
+14_silkboard_rushed.wav,Silk Board,silk board area mein rehta hoon traffic bahut hoti hai yahan,rushed
+15_bellandur_rushed.wav,Bellandur,bellandur mein hoon abhi haan confirm kar lo address,rushed
+16_sarjapur_whisper.wav,Sarjapur,sarjapur road pe rehta hoon office ke paas hi hai,whisper
+17_bommanahalli_whisper.wav,Bommanahalli,bommanahalli mein hoon haan wahi ka address dun,whisper
+18_krpuram_whisper.wav,KR Puram,kr puram se hoon main train se aata jaata hoon,whisper
+19_peenya_whisper.wav,Peenya,peenya industrial area ke paas rehta hoon,whisper
+20_yeshwanthpur_whisper.wav,Yeshwanthpur,yeshwanthpur mein ek room mein rehta hoon sharing basis pe,whisper

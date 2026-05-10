@@ -1,0 +1,61 @@
+filename,model,transcript,latency,locality,ground_truth,condition,wer,locality_hit
+01_koramangala_quiet.wav,deepgram,हाँ भाई मैं एक और बंगला में रखता हूं,3.045,Koramangala,haan bhai main koramangala mein rehta hoon,quiet,1.2857142857142858,0
+02_indiranagar_quiet.wav,deepgram,मैं नगर इंदिरा नगर के पास है,2.855,Indiranagar,mera ghar indiranagar ke paas hai,quiet,1.1666666666666667,0
+03_whitefield_quiet.wav,deepgram,मैं whitefield से हूँ वहां से daily travel करता हूँ,3.232,Whitefield,main whitefield se hoon wahan se daily travel karta hoon,quiet,0.7,1
+04_electroniccity_quiet.wav,deepgram,electronic city में यह company में काम करता था पहले,3.211,Electronic City,electronic city mein ek company mein kaam karta tha pehle,quiet,0.7,1
+05_marathahalli_quiet.wav,deepgram,मरथल area में room लिया है मैंने,2.898,Marathahalli,marathahalli area mein room liya hai maine,quiet,0.7142857142857143,0
+06_jayanagar_noise.wav,deepgram,जायानगर में रखता हूँ काफी अच्छा area है,2.227,Jayanagar,jayanagar mein rehta hoon kafi accha area hai,noise,0.875,0
+07_rajajinagar_noise.wav,deepgram,राजा जी नगर से home में बहुत दोना ही है,2.336,Rajajinagar,rajajinagar se hoon main bahut door nahi hai,noise,1.25,0
+08_hebbal_noise.wav,deepgram,hamble ke paas ek factory me काम करता हूँ,2.594,Hebbal,hebbal ke paas ek factory mein kaam karta hoon,noise,0.5555555555555556,0
+09_yelahanka_noise.wav,deepgram,ये अल्लाह का मैं मेरे बाये रहता हूँ मैं भी वही हूँ,2.302,Yelahanka,yelahanka mein mera bhai rehta hai main bhi wahi hoon,noise,1.2,0
+10_banashankari_noise.wav,deepgram,माना शंकर area में room दुंद रहा हुआ अभी,2.74,Banashankari,banashankari area mein room dhundh raha hoon abhi,noise,0.875,0
+11_hsrlayout_rushed.wav,deepgram,हिटलर लेट में हूं मैं हां हां वही रहता हूं,2.212,HSR Layout,hsr layout mein hoon main haan haan wahi rehta hoon,rushed,1.0,0
+12_btmlayout_rushed.wav,deepgram,कि बेटियों लिए अच्छे हूं क्या job है वहां,2.032,BTM Layout,btm layout se hoon kya job hai wahan,rushed,1.0,0
+13_majestic_rushed.wav,deepgram,मैं justice के पास ही हूँ bus्टन के पीछे,2.861,Majestic,majestic ke paas hi hoon bus stand ke peeche,rushed,1.0,0
+14_silkboard_rushed.wav,deepgram,सिल्क area में रहता हूं traffic बहुत होती है यहां,2.95,Silk Board,silk board area mein rehta hoon traffic bahut hoti hai yahan,rushed,0.8181818181818182,0
+15_bellandur_rushed.wav,deepgram,बलिंदुर मे हूँ अभी हाँ confirm कर लो address,2.794,Bellandur,bellandur mein hoon abhi haan confirm kar lo address,rushed,0.7777777777777778,0
+16_sarjapur_whisper.wav,deepgram,सरजापुर road पर रखता हूं office के पास है,2.259,Sarjapur,sarjapur road pe rehta hoon office ke paas hi hai,whisper,0.8,0
+17_bommanahalli_whisper.wav,deepgram,मनाली में हूं हां वही का address दो,2.719,Bommanahalli,bommanahalli mein hoon haan wahi ka address dun,whisper,0.875,0
+18_krpuram_whisper.wav,deepgram,a r पुरम से हूं मैं train से आता जाता हूं,3.03,KR Puram,kr puram se hoon main train se aata jaata hoon,whisper,1.0,0
+19_peenya_whisper.wav,deepgram,पीनी industrial area के पास रहता हुआ,2.123,Peenya,peenya industrial area ke paas rehta hoon,whisper,0.7142857142857143,0
+20_yeshwanthpur_whisper.wav,deepgram,यशवंतपुर में एक room में रहता हूं sharing basis पर,3.086,Yeshwanthpur,yeshwanthpur mein ek room mein rehta hoon sharing basis pe,whisper,0.7,0
+01_koramangala_quiet.wav,whisper,"हां भाई, में एक ओर मंगला में रखता हूं",6.533,Koramangala,haan bhai main koramangala mein rehta hoon,quiet,1.2857142857142858,0
+02_indiranagar_quiet.wav,whisper,मेरा गर इंड्रानागर के पास है,5.549,Indiranagar,mera ghar indiranagar ke paas hai,quiet,1.0,0
+03_whitefield_quiet.wav,whisper,"मैं whitefield से हूं, वहाँ से daily travel करता हूं",5.758,Whitefield,main whitefield se hoon wahan se daily travel karta hoon,quiet,0.7,1
+04_electroniccity_quiet.wav,whisper,एलेक्ट्रोनिक सिट्येमें एक कम्पनिमें काम करता था पैलें,7.671,Electronic City,electronic city mein ek company mein kaam karta tha pehle,quiet,1.0,0
+05_marathahalli_quiet.wav,whisper,मरतली एरिया में रूम लिया है मैंने,5.853,Marathahalli,marathahalli area mein room liya hai maine,quiet,1.0,0
+06_jayanagar_noise.wav,whisper,जायानेगर में रहता हूं कफिया अच्छा एरिया है।,7.211,Jayanagar,jayanagar mein rehta hoon kafi accha area hai,noise,1.0,0
+07_rajajinagar_noise.wav,whisper,राजाजीनगर से हूँ में बहुत दो नहीं हैं।,6.858,Rajajinagar,rajajinagar se hoon main bahut door nahi hai,noise,1.0,0
+08_hebbal_noise.wav,whisper,हैबल की पास एक फाक्टरी में काम करता हूं,6.278,Hebbal,hebbal ke paas ek factory mein kaam karta hoon,noise,1.0,0
+09_yelahanka_noise.wav,whisper,"यलाख का में मेरे बाई रता हूँ, में भी वही हूँ।",7.218,Yelahanka,yelahanka mein mera bhai rehta hai main bhi wahi hoon,noise,1.1,0
+10_banashankari_noise.wav,whisper,मानाशंकरी एर्या में रूम दुन्थ रहा हुआबे,6.927,Banashankari,banashankari area mein room dhundh raha hoon abhi,noise,1.0,0
+11_hsrlayout_rushed.wav,whisper,hedge sir layout में हुँ नहीं रहा हूँ,5.502,HSR Layout,hsr layout mein hoon main haan haan wahi rehta hoon,rushed,1.0,1
+12_btmlayout_rushed.wav,whisper,"btm लेएज से हूं, क्या जाफ हैं वहां?",6.206,BTM Layout,btm layout se hoon kya job hai wahan,rushed,0.875,0
+13_majestic_rushed.wav,whisper,मज़ेसेके पास ही हूँ बस्टन के पीचे,6.308,Majestic,majestic ke paas hi hoon bus stand ke peeche,rushed,1.0,0
+14_silkboard_rushed.wav,whisper,"silk port area में रहता हूं, traffic बहुत होट ही हैं यहां",6.347,Silk Board,silk board area mein rehta hoon traffic bahut hoti hai yahan,rushed,0.8181818181818182,1
+15_bellandur_rushed.wav,whisper,बलंदूर में हु अबी। हाँ कान्फूम कर लो अड्रेस।,7.453,Bellandur,bellandur mein hoon abhi haan confirm kar lo address,rushed,1.0,0
+16_sarjapur_whisper.wav,whisper,सर्जपुर रोट पे रहता हूं। आफिस के पास हैं।,7.11,Sarjapur,sarjapur road pe rehta hoon office ke paas hi hai,whisper,1.0,0
+17_bommanahalli_whisper.wav,whisper,उमना हली में हूं। हां वही का अड्रेस दों।,6.864,Bommanahalli,bommanahalli mein hoon haan wahi ka address dun,whisper,1.125,0
+18_krpuram_whisper.wav,whisper,"एहार पुरम से हूँ में, ट्रेन से आता जाता हूँ",6.992,KR Puram,kr puram se hoon main train se aata jaata hoon,whisper,1.0,0
+19_peenya_whisper.wav,whisper,पीनी इंदिस्रेल एर्या के पास रहता हूं।,6.522,Peenya,peenya industrial area ke paas rehta hoon,whisper,1.0,0
+20_yeshwanthpur_whisper.wav,whisper,यश्मन्त्पुर में एक रूम में रहता हूं शारिंडेसिस पे,7.764,Yeshwanthpur,yeshwanthpur mein ek room mein rehta hoon sharing basis pe,whisper,1.0,0
+01_koramangala_quiet.wav,wav2vec2,हम बाए मैं कोर मगला मे रहता होँ,0.765,Koramangala,haan bhai main koramangala mein rehta hoon,quiet,1.1428571428571428,0
+02_indiranagar_quiet.wav,wav2vec2,मेरागा रीनद रनागर के पासहै,0.419,Indiranagar,mera ghar indiranagar ke paas hai,quiet,1.0,0
+03_whitefield_quiet.wav,wav2vec2,मै वई फिलसे हो वहाँ से डेली चावल करता हो,0.464,Whitefield,main whitefield se hoon wahan se daily travel karta hoon,quiet,1.0,0
+04_electroniccity_quiet.wav,wav2vec2,पअलकतरोंनिक सिटे मैं ये कम्पड़ी में काम करताह ता पेल है,0.454,Electronic City,electronic city mein ek company mein kaam karta tha pehle,quiet,1.1,0
+05_marathahalli_quiet.wav,wav2vec2,मारता लिहरियाँ मैं रुम लिया हैमेी नहें,0.336,Marathahalli,marathahalli area mein room liya hai maine,quiet,1.0,0
+06_jayanagar_noise.wav,wav2vec2,जाया नेगर में रस्ता हो का प्याँ शाएरे है,0.421,Jayanagar,jayanagar mein rehta hoon kafi accha area hai,noise,1.125,0
+07_rajajinagar_noise.wav,wav2vec2,राज़ा सिन कर से हूँ में बाहुत दोर नहीं है,0.402,Rajajinagar,rajajinagar se hoon main bahut door nahi hai,noise,1.25,0
+08_hebbal_noise.wav,wav2vec2,हबल की पास एक भाखतरी मे काम करता हो,0.382,Hebbal,hebbal ke paas ek factory mein kaam karta hoon,noise,1.0,0
+09_yelahanka_noise.wav,wav2vec2,्यालाहका मैं मेरे बाई रहता हो मैं भी बाशी हूँ,0.439,Yelahanka,yelahanka mein mera bhai rehta hai main bhi wahi hoon,noise,1.0,0
+10_banashankari_noise.wav,wav2vec2,बाना छंकर एरियाँ मे रूम दुनथ रहा होआपे,0.458,Banashankari,banashankari area mein room dhundh raha hoon abhi,noise,1.0,0
+11_hsrlayout_rushed.wav,wav2vec2,हझशर लेयोट मे हो मे हाहा पहि रहता हो,0.522,HSR Layout,hsr layout mein hoon main haan haan wahi rehta hoon,rushed,1.0,0
+12_btmlayout_rushed.wav,wav2vec2,बीटिों ने हँचे हूँ क्या जा प्या वहा,0.356,BTM Layout,btm layout se hoon kya job hai wahan,rushed,1.0,0
+13_majestic_rushed.wav,wav2vec2,मझल से क्या पास खी हूँ बस्थर के पीछे,0.34,Majestic,majestic ke paas hi hoon bus stand ke peeche,rushed,1.0,0
+14_silkboard_rushed.wav,wav2vec2,शिल्गु ड्यरया में रहता हो टाहविक बहुत होटी हईहा,0.397,Silk Board,silk board area mein rehta hoon traffic bahut hoti hai yahan,rushed,1.0,0
+15_bellandur_rushed.wav,wav2vec2,बलमदुर में हो अभी हाँ खंटुम कर लोर रस,0.397,Bellandur,bellandur mein hoon abhi haan confirm kar lo address,rushed,1.0,0
+16_sarjapur_whisper.wav,wav2vec2,सरचचा प रोर पेर रहता हू औफिसके पास है,0.459,Sarjapur,sarjapur road pe rehta hoon office ke paas hi hai,whisper,1.0,0
+17_bommanahalli_whisper.wav,wav2vec2,उम्ह न हली में हू हाँ बाई कहा टरस् तो,0.374,Bommanahalli,bommanahalli mein hoon haan wahi ka address dun,whisper,1.25,0
+18_krpuram_whisper.wav,wav2vec2,मैयार परम से हो में टहन प्याहाता जाता हूँ,0.38,KR Puram,kr puram se hoon main train se aata jaata hoon,whisper,1.0,0
+19_peenya_whisper.wav,wav2vec2,पीनिय इनडस रे लेरियाँ के पास रखता हो,0.372,Peenya,peenya industrial area ke paas rehta hoon,whisper,1.1428571428571428,0
+20_yeshwanthpur_whisper.wav,wav2vec2,यहसवन पूर मैं एक रूम में रहता हूँ सारी देसस्पे,0.487,Yeshwanthpur,yeshwanthpur mein ek room mein rehta hoon sharing basis pe,whisper,1.0,0
